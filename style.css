@@ -1,0 +1,112 @@
+body{
+    
+     background-color: aqua;
+}
+
+
+
+
+#contact iframe {
+    width: 100%;
+     background-color: aqua;
+}
+
+.contact_1 h3 {
+    display: inline;
+     background-color: aqua;
+}
+
+.contact_1 a {
+    text-shadow: none;
+     background-color: aqua;
+}
+
+input {
+   background-color: aqua;
+}
+
+
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+     background-color: aqua;
+        
+}
+
+.travel_mainDiv img {
+    width: 100%;
+     background-color: aqua;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+     background-color: aqua;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+     background-color: aqua;
+}
+
+
+
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+     background-color: aqua;
+}
+
+.movie_head i {
+    float: right;
+     background-color: aqua;
+}
+
+.movie_text span {
+    color: #ff7700;
+     background-color: aqua;
+}
+
+
+.video_li {
+    margin-top: 10px;
+     background-color: aqua;
+
+
+}
+
+
+
+
+.environment_h4 {
+    border-bottom: 1px solid white;
+}
+
+
+.haeder_entrepreneur {
+
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+
+body{
+   
+    
+}
